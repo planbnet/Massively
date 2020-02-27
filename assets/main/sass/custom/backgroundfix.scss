@@ -1,0 +1,8 @@
+@media screen {
+    html { font-size: 12pt }
+}       
+@media screen and (min-width: 1281px) {
+    #wrapper > .bg {
+        background-size: auto, cover !important;
+    }
+}
